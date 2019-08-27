@@ -14,6 +14,13 @@ Guest book!!
 
 <h1>welcom!<h1> 
     <u>publish content.<u>
+    <br><br><br>
+    <?php 
+    $arr=array(1,2,3,4,5);
+    $reverse=array_reverse($arr);
+    print_r ($reverse);
+    
+    ?>
     
 </body>
 </html>
