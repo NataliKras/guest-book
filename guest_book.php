@@ -8,15 +8,16 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-<<<<<<< Updated upstream
-Guest book
-=======
-Guest book!!
-
-
-
->>>>>>> Stashed changes
+    
+<h1>welcom!<h1> 
+    <u>publish content.<u>
+    <br><br><br>
+    <?php 
+    $arr=array(1,2,3,4,5);
+    $reverse=array_reverse($arr);
+    print_r ($reverse);
+    
+    ?>
     
 </body>
 </html>
