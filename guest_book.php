@@ -9,7 +9,14 @@
 </head>
 <body>
 
+<<<<<<< Updated upstream
 Guest book
+=======
+Guest book!!
+
+
+
+>>>>>>> Stashed changes
     
 </body>
 </html>
