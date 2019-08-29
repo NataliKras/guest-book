@@ -4,10 +4,10 @@ namespace App\Core;
 use Error;
 
 class Router
-    function __construct($view)
-    {
+    // function __construct($view)
+    // {
         
-    }
+    // }
     // {
     //     $this->controllerName=(isset($_GET["t"] ?? 'site'). 'Controller';
     //     $this->actionName='action'.($_GET["a"]?? 'home');
